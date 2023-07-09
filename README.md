@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Labrador Santos</h1>
-<h3 align="center">I am Eduardo Labrador Santos, a double degree student in Computer Engineering and Business Administration and Management (ADE) at the Polytechnic University of Madrid. With a proactive approach and an entrepreneurial spirit, I have become interested in the world of consulting, technology, and investment, applying my skills and knowledge to solve complex problems and constantly seek learning opportunities. 
+<h3 align="center">I am Eduardo Labrador Santos, a double degree student in Computer Engineering and Business Administration and Management (BBA) at the Polytechnic University of Madrid. With a proactive approach and an entrepreneurial spirit, I have become interested in the world of consulting, technology, and investment, applying my skills and knowledge to solve complex problems and constantly seek learning opportunities. 
 
 </h3>
 
