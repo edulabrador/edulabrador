@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eduardo Labrador Santos</h1>
-<h3 align="center">I am Eduardo Labrador Santos, a double degree student in Computer Engineering and Business Administration and Management (ADE) at the Polytechnic University of Madrid. With a proactive approach and an entrepreneurial spirit, I have become interested in the world of consulting, technology, and investment, applying my skills and knowledge to solve complex problems and constantly seek learning opportunities.</h3>
+<h3 align="center">I am Eduardo Labrador Santos, a double degree student in Computer Engineering and Business Administration and Management (ADE) at the Polytechnic University of Madrid. With a proactive approach and an entrepreneurial spirit, I have become interested in the world of consulting, technology, and investment, applying my skills and knowledge to solve complex problems and constantly seek learning opportunities. 
+
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edulabrador&label=Profile%20views&color=0e75b6&style=flat" alt="edulabrador" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edulabrador" alt="edulabrador" /></a> </p>
-
-- 🌱 I’m currently learning **JavaScript and Python**
-
-- 📫 How to reach me **labradorsantoseduardo@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/eduardolabradorsantos/](https://www.linkedin.com/in/eduardolabradorsantos/)
-
-- ⚡ Fun fact **I like learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
