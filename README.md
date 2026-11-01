@@ -59,11 +59,20 @@ flowchart LR
 Screener for arbitrage opportunities across prediction markets.
 - Cross-market price matching, built with AI agents
 
-### 💬 Social media manager SaaS &nbsp; ![Private](https://img.shields.io/badge/private-in%20development-lightgrey?style=flat-square&logo=lock)
-Engagement automation for Instagram & TikTok: turns comments into automatic DMs, sends different messages depending on whether the user follows the account, and manages posts.
-- Built from scratch as a sellable SaaS
-- Multi-agent dev workflow
-- Launching first in Peru 🇵🇪
+### 💬 eco · social media auto-replies &nbsp; ![Private](https://img.shields.io/badge/private-v0.9-lightgrey?style=flat-square)
+Engagement automation for Instagram, Facebook, Threads and YouTube that runs on your own computer: no servers, no subscriptions, official APIs only.
+- Keyword rules turn comments into a public reply and/or an automatic DM
+- Sends a different message depending on whether the user follows the account (*follow-gate*)
+- Schedules posts, and leaves what no rule covers in an inbox for a human to answer
+- Simulation mode by default, so every account shows what it *would* send before going live
+- 470+ tests against a simulated API · not yet validated against live Instagram
+
+### 🛒 SaaSventas · voice-first inventory & sales &nbsp; ![Private](https://img.shields.io/badge/private-pilot%20build-lightgrey?style=flat-square)
+SaaS for Peruvian retailers to manage sales and inventory by voice or text, through WhatsApp or a mobile web app.
+- Built from scratch as a sellable SaaS, with a multi-agent dev workflow
+- AI interprets voice/text, but never writes business data directly: stock, permissions and fiscal state stay in deterministic code
+- Electronic invoicing queue, multi-tenant Supabase with row-level security
+- Launching first in Peru 🇵🇪 with a children's clothing store as the pilot customer
 
 ### 🎬 Vertical content automation &nbsp; ![In development](https://img.shields.io/badge/status-in%20development-yellow?style=flat-square)
 Pipeline to produce and publish vertical video (Shorts, Reels, TikTok) at scale.
