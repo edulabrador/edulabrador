@@ -74,6 +74,21 @@ SaaS for Peruvian retailers to manage sales and inventory by voice or text, thro
 - Electronic invoicing queue, multi-tenant Supabase with row-level security
 - Launching first in Peru 🇵🇪 with a children's clothing store as the pilot customer
 
+### ⛽ CarbuCerca · cheapest fuel nearby &nbsp; ![Private](https://img.shields.io/badge/private-v0.4-lightgrey?style=flat-square)
+Fuel station finder for Spain using the official government price feed, available as web/PWA, Android app and Windows desktop app.
+- Search by postcode, address or location, with radius and sorting by price, distance or both
+- Map and list side by side, price alerts, brand discounts and round-trip cost estimate
+- Trip mode: cheapest stops along a route with a configurable detour
+- Works offline with a cached national copy, plus an Android home-screen widget
+- Ported to Peru as **GrifoCerca** 🇵🇪, with OSINERGMIN reference prices in soles
+
+### 🍣 [Sushi Tracker](https://github.com/edulabrador/sushicounter) · buffet sushi counter &nbsp; ![Open source](https://img.shields.io/badge/open%20source-v0.7-brightgreen?style=flat-square)
+A small offline-first Flutter app to count sushi pieces at an all-you-can-eat buffet.
+- Tap to count, with session timer, goals, records and a group mode for up to eight people at the table
+- History and stats: pace, cost per piece, per-restaurant averages, calendar and achievements
+- No account, backend, ads or analytics: everything stays on the device
+- English and Spanish, Android widget and launcher shortcut, preparing the Play Store release
+
 ### 🎬 Vertical content automation &nbsp; ![In development](https://img.shields.io/badge/status-in%20development-yellow?style=flat-square)
 Pipeline to produce and publish vertical video (Shorts, Reels, TikTok) at scale.
 - <!-- TODO: añadir 1 línea concreta: qué automatiza (guion, voz, edición, subtítulos, publicación) y con qué stack --> End-to-end automation of short-form content
