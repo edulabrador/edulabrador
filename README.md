@@ -65,7 +65,7 @@ Engagement automation for Instagram, Facebook, Threads and YouTube that runs on 
 - Sends a different message depending on whether the user follows the account (*follow-gate*)
 - Schedules posts, and leaves what no rule covers in an inbox for a human to answer
 - Simulation mode by default, so every account shows what it *would* send before going live
-- 470+ tests against a simulated API · not yet validated against live Instagram
+- 2,300+ tests · validated with real Instagram, Facebook and YouTube accounts (Threads tested in simulation only)
 
 ### 🛒 SaaSventas · voice-first inventory & sales &nbsp; ![Private](https://img.shields.io/badge/private-pilot%20build-lightgrey?style=flat-square)
 SaaS for Peruvian retailers to manage sales and inventory by voice or text, through WhatsApp or a mobile web app.
@@ -80,7 +80,7 @@ Fuel station finder for Spain using the official government price feed, availabl
 - Map and list side by side, price alerts, brand discounts and round-trip cost estimate
 - Trip mode: cheapest stops along a route with a configurable detour
 - Works offline with a cached national copy, plus an Android home-screen widget
-- Ported to Peru as **GrifoCerca** 🇵🇪, with OSINERGMIN reference prices in soles
+- Ported to Peru as **GrifoCerca** 🇵🇪, prices in soles (demo dataset from regional reference averages, since OSINERGMIN offers no public API)
 
 ### 🍣 [Sushi Tracker](https://github.com/edulabrador/sushicounter) · buffet sushi counter &nbsp; ![Open source](https://img.shields.io/badge/open%20source-v0.7-brightgreen?style=flat-square)
 A small offline-first Flutter app to count sushi pieces at an all-you-can-eat buffet.
@@ -89,9 +89,12 @@ A small offline-first Flutter app to count sushi pieces at an all-you-can-eat bu
 - No account, backend, ads or analytics: everything stays on the device
 - English and Spanish, Android widget and launcher shortcut, preparing the Play Store release
 
-### 🎬 Vertical content automation &nbsp; ![In development](https://img.shields.io/badge/status-in%20development-yellow?style=flat-square)
-Pipeline to produce and publish vertical video (Shorts, Reels, TikTok) at scale.
-- <!-- TODO: añadir 1 línea concreta: qué automatiza (guion, voz, edición, subtítulos, publicación) y con qué stack --> End-to-end automation of short-form content
+### 🎬 ShortMaker · vertical content automation &nbsp; ![In development](https://img.shields.io/badge/status-in%20development-yellow?style=flat-square)
+Pipeline that turns long videos into vertical clips (Shorts, Reels, TikTok) and publishes them at scale.
+- Transcription (faster-whisper / Parakeet) and scene detection (TransNetV2), then an LLM picks the best moments
+- Cuts with FFmpeg and reframes to 9:16 following the speaker (MediaPipe + YOLO)
+- Burns in hook titles and word-timed captions, with optional dubbing (ElevenLabs) and publishing to TikTok, Instagram and YouTube
+- Python + FastAPI backend, React/Remotion dashboard for review, plus CLI and MCP server
 
 ### 📊 GBPJPY H1 trading system &nbsp; ![Research done](https://img.shields.io/badge/research-done-brightgreen?style=flat-square) ![Demo validation next](https://img.shields.io/badge/next-demo%20validation-blue?style=flat-square)
 Expert Advisor ported from MQL4 to Python for rigorous validation.
